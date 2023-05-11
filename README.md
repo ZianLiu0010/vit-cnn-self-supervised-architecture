@@ -11,7 +11,7 @@ ViT: A transformer-based model that uses self-attention mechanisms to process im
 ViT with MAE: A ViT model that incorporates masked autoencoding to learn more expressive features and improve classification performance.
 
 ## Results
-Here is a summary of the results obtained from each model:
+Here is a summary of the results obtained from each model on a brain tumor MRI dataset:
 
 Test Accuracy:
 
